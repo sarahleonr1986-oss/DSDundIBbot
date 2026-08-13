@@ -1,2 +1,2 @@
 # DSDundIBbot
-ChatBot für Examen und VOrbereitung zum DSD und IB
+ChatBot für Examen und Vorbereitung zum DSD und IB
